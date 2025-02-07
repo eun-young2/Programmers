@@ -7,7 +7,7 @@
 <br>
 ✔ 데이터 기반 문제 해결력을 높이는 데 집중합니다.
 
-💡 꾸준함이 실력을 만듭니다. 오늘도 한 걸음 성장! 🌱
+💡 꾸준함이 실력을 만든다. 오늘도 한 걸음 성장! 🌱
 
 # Programmers
 This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
