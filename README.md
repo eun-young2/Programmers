@@ -9,5 +9,7 @@
 
 💡 꾸준함이 실력을 만든다. 오늘도 한 걸음 성장! 🌱
 
+![Programmers Badge](https://raw.githubusercontent.com/{grit_ey@naver.com}/Programmers_Badge_Generator/main/result/result.svg)
+
 # Programmers
 This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
