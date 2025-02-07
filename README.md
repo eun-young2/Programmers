@@ -9,7 +9,7 @@
 
 💡 꾸준함이 실력을 만든다. 오늘도 한 걸음 성장! 🌱
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Programmers Badge](https://raw.githubusercontent.com/grit_ey@naver.com/Programmers_Badge_Generator/main/result/result.svg)
 
 # Programmers
 This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
